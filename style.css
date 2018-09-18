@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .about {
 	background-image: url(imgstringart/about-sep.jpg); /* коли прикрипляв то не йшло поміняв адресу уважно коли все правильно то має висвічуватися фото*/
-
+}
 /* Portfolio Wrap Section */
 #portfoliowrap {
 	display: block;
